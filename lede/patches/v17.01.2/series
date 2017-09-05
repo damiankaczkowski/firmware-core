@@ -1,1 +1,2 @@
 006-tplink-writable-uboot.patch -p0
+700-modded-hostapd.patch -p0
